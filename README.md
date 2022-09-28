@@ -16,8 +16,9 @@ Abra o Pycharm e instale as bibliotecas com 'pip'
 
 ## Parâmetros
 
-Passe os parâmetros Nome do GitHub e Nome do Projeto
+Passe os parâmetros Nome do GitHub e Nome do Projeto.
 
-![image](https://user-images.githubusercontent.com/36715256/192817130-3f7533f4-471a-46b6-a16c-95b1feeff3f5.png)
-
-
+```bash
+  Digite o nome do seu GitHub:
+  Digite o nome do seu Projeto:
+```

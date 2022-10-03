@@ -1,4 +1,4 @@
-<h1>Request Integration by Henrique Cabanillas</h1>
+# Request Integration Github
 Integrar com a API de repositórios do github para retornar número de estrelas de um determinado Projeto.
 
 

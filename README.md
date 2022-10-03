@@ -1,5 +1,5 @@
 
-# Integration Github
+# Request Integration by Henrique Cabanillas
 Integrar com a API de repositórios do github para retornar número de estrelas de um determinado Projeto.
 
 

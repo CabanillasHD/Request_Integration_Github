@@ -22,7 +22,7 @@ def imprimi_format(num):
 
 
 def ledados():
-    git = str(input('Digite o nome do seu GITHUB: ')).strip()
+    git = str(input('Digite o nome do seu GITHUB: '))
     if git.strip() == '':
         git = 'CabanillasHD'
         proj = 'PythonBeginner'
@@ -31,7 +31,7 @@ def ledados():
         return git, proj
     else:
         gitpreenchido = git
-        proj = str(input('Digite o nome do seu Projeto: ')).strip()
+        proj = str(input('Digite o nome do seu Projeto: '))
         if proj.strip() == '':
             proj = str('PythonBeginner')
             print(f'Nome de projeto inválido, o git usado será o {git} e projeto {proj} será usado como padrão')
